@@ -220,7 +220,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./Assets/icons/trending-down.svg');
+    background-image: url('./assets/icon/trending-down.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -231,7 +231,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
-    background-image: url('./Assets/icons/trending-up.svg');
+    background-image: url('./assets/icon/trending-up.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
